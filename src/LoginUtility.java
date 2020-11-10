@@ -1,3 +1,3 @@
 public class LoginUtility {
-    // swesome utility here
+    // awesome utility here
 }
